@@ -6,7 +6,7 @@ Waiting to be released.
 
 ## Similar images set
 
-The simialr images set can be downloaded from [google drive](https://drive.google.com/file/d/197vaBDApI0S_Xh2aqSfz3JpRdfia_ilV/view?usp=sharing), and the <em>readme.txt</em> contained in this file shows the detail of our similar images sets.
+The similar images set can be downloaded from [google drive](https://drive.google.com/file/d/197vaBDApI0S_Xh2aqSfz3JpRdfia_ilV/view?usp=sharing), and the <em>readme.txt</em> contained in this file shows the detail of our similar images sets.
 
 ## Reference
 
@@ -23,4 +23,4 @@ If you find this repo useful, please consider citing:
 
 ## Acknowledgements
 
-Thanks the project [self-critical.pytorch](https://github.com/ruotianluo/self-critical.pytorch).
+Thanks to the project [self-critical.pytorch](https://github.com/ruotianluo/self-critical.pytorch).
