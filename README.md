@@ -23,4 +23,4 @@ If you find this repo useful, please consider citing:
 
 ## Acknowledgements
 
-Thanks to the project [self-critical.pytorch](https://github.com/ruotianluo/self-critical.pytorch).
+Thanks to the repository [self-critical.pytorch](https://github.com/ruotianluo/self-critical.pytorch).
