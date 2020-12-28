@@ -8,6 +8,8 @@ Waiting to be released.
 
 The similar images set can be downloaded from [google drive](https://drive.google.com/file/d/197vaBDApI0S_Xh2aqSfz3JpRdfia_ilV/view?usp=sharing), and the <em>readme.txt</em> contained in this file shows the detail of our similar images sets.
 
+We also provide top-500 similar images set files in [google drive](https://drive.google.com/drive/folders/1wlffGBguPmpCz4ZbHCQiK-P39kJ_pi5F).
+
 ## Reference
 
 If you find this repo useful, please consider citing:
